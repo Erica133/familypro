@@ -1,5 +1,5 @@
 
-#FamilyPro：优质订阅服务拼团平台，让你省钱省心用好工具 💡
+# FamilyPro：优质订阅服务拼团平台，让你省钱省心用好工具 💡
 
 你还在为 ChatGPT、Notion、Canva、Netflix、Spotify 这些订阅服务的价格发愁吗？  
 还在苦苦寻找便宜、稳定、靠谱的合租账号渠道？  
